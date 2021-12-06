@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.exe.config
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.exe
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.pdb
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.Form1.resources
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.exe
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.pdb
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.exe.config
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.exe
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\bin\Debug\Boat.pdb
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csprojAssemblyReference.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.Form1.resources
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.Properties.Resources.resources
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csproj.GenerateResource.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.csproj.CoreCompileInputs.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.exe
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Boat\Boat\obj\Debug\Boat.pdb
